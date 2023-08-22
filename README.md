@@ -20,8 +20,8 @@ This is a project in which a simulation of an NFT card is created. To accomplish
 
 ### Links
 
-- Solution URL: [https://github.com/MatiasFrascino/interactive-rating-component](https://github.com/MatiasFrascino/interactive-rating-component)
-- Live Site URL: [https://matiasfrascino.github.io/interactive-rating-component/](https://matiasfrascino.github.io/interactive-rating-component/)
+- Solution URL: [https://github.com/MatiasFrascino/nft-preview-card](https://github.com/MatiasFrascino/nft-preview-card)
+- Live Site URL: [https://matiasfrascino.github.io/nft-preview-card/](https://matiasfrascino.github.io/nft-preview-card/)
 
 ## My process
 
